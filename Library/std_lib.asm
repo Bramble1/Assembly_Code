@@ -65,8 +65,9 @@ power:
 		pop	rbp
 		ret
 
-;FUnction to reset the stack and remove arguments after function
-;call
+;create stack frame function
+
+;destroy stack frame function
 
 
 
